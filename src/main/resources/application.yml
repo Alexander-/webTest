@@ -1,0 +1,20 @@
+#logging:
+#  level:
+#    root: debug
+
+logging:
+  file:
+    name: ./log/myapplication.log
+spring:
+  application:
+    name: web
+  datasource:
+    url: jdbc:h2:mem:mydb
+    username: sa
+    password: 
+    driverClassName: org.h2.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+server:
+  port: 80
+
