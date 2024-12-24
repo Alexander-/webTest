@@ -1,13 +1,28 @@
-2024-11-15T06:30:26.548+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplicationTests      : Starting WebApplicationTests using Java 21.0.5 with PID 14612 (started by Александр in C:\Users\Alexander\IdeaProjects\web\web)
-2024-11-15T06:30:26.553+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplicationTests      : No active profile set, falling back to 1 default profile: "default"
-2024-11-15T06:30:29.934+03:00  INFO 14612 --- [web] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2024-11-15T06:30:29.938+03:00  INFO 14612 --- [web] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2024-11-15T06:30:29.944+03:00  INFO 14612 --- [web] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2024-11-15T06:30:30.055+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplicationTests      : Started WebApplicationTests in 4.841 seconds (process running for 8.914)
-2024-11-15T06:30:30.090+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : log asd
-2024-11-15T06:30:30.093+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : a
-2024-11-15T06:30:30.094+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : a
-2024-11-15T06:30:30.094+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : a
-2024-11-15T06:30:30.095+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : Windows 10
-2024-11-15T06:30:30.095+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : C:\Users\Alexander\IdeaProjects\web\web
-2024-11-15T06:30:30.099+03:00  INFO 14612 --- [web] [Test worker] com.example.web.WebApplication           : 49283072
+2024-12-24T23:22:42.396+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplicationTests      : Starting WebApplicationTests using Java 21.0.5 with PID 12252 (started by Александр in C:\Users\Alexander\IdeaProjects\web-git\web)
+2024-12-24T23:22:42.419+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-12-24T23:22:44.764+03:00  INFO 12252 --- [web] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-12-24T23:22:44.765+03:00  INFO 12252 --- [web] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-12-24T23:22:44.786+03:00  INFO 12252 --- [web] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-12-24T23:22:44.857+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplicationTests      : Started WebApplicationTests in 3.459 seconds (process running for 6.249)
+2024-12-24T23:22:44.870+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : log asd
+2024-12-24T23:22:44.872+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : a
+2024-12-24T23:22:44.873+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : a
+2024-12-24T23:22:44.874+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : a
+2024-12-24T23:22:44.874+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : Windows 10
+2024-12-24T23:22:44.875+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : C:\Users\Alexander\IdeaProjects\web-git\web
+2024-12-24T23:22:44.876+03:00  INFO 12252 --- [web] [Test worker] com.example.web.WebApplication           : 41943040
+2024-12-24T23:22:46.971+03:00  INFO 12252 --- [web] [Test worker] c.example.web.controller.WhatController  : /asd
+2024-12-24T23:33:14.779+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplicationTests      : Starting WebApplicationTests using Java 21.0.5 with PID 9596 (started by Александр in C:\Users\Alexander\IdeaProjects\web-git\web)
+2024-12-24T23:33:14.799+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-12-24T23:33:17.208+03:00  INFO 9596 --- [web] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-12-24T23:33:17.209+03:00  INFO 9596 --- [web] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-12-24T23:33:17.212+03:00  INFO 9596 --- [web] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-12-24T23:33:17.281+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplicationTests      : Started WebApplicationTests in 3.686 seconds (process running for 6.375)
+2024-12-24T23:33:17.294+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : log asd
+2024-12-24T23:33:17.297+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : a
+2024-12-24T23:33:17.298+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : a
+2024-12-24T23:33:17.299+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : a
+2024-12-24T23:33:17.300+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : Windows 10
+2024-12-24T23:33:17.300+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : C:\Users\Alexander\IdeaProjects\web-git\web
+2024-12-24T23:33:17.304+03:00  INFO 9596 --- [web] [Test worker] com.example.web.WebApplication           : 41943040
+2024-12-24T23:33:19.709+03:00  INFO 9596 --- [web] [Test worker] c.example.web.controller.WhatController  : /asd
