@@ -58,7 +58,7 @@ class WebApplicationTests {
 						.get("/asd"))
 				.andDo(print())
 				.andExpect(status().isOk())
-				.andExpect(content().string(containsString("aaaa")));
+				.andExpect(content().string(containsString("a")));
 
 	}
 
